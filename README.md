@@ -19,8 +19,7 @@ end of the workshop you will have a few ideas for talks, an outline on
 one topic, a title, a pitch/proposal for applying to events, a bio, and
 a chance to practice speaking.
 
-You do NOT have to have any experience in public speaking. This
-workshop is for all levels of experience.
+*** You do NOT have to have any experience in public speaking. This workshop is for all levels of experience.
 
 **This workshop is for you if:**
 
@@ -41,27 +40,27 @@ workshop is for all levels of experience.
 
 **Accessibility**
 
-\- The venue has \[elevators, ramps, etc.\], \[single stall washrooms
+- The venue has \[elevators, ramps, etc.\], \[single stall washrooms
 for non-binary genders\], \[etc.\].  
-\- Please do not wear scents. Many people are allergic or sensitive.
+- Please do not wear scents. Many people are allergic or sensitive.
 
 #   
 Workshop Assets for Facilitators
 
-\- Script (the document you are reading now)  
-\-
+- Script (the document you are reading now)  
+-
 [<span class="underline">Slides</span>](https://docs.google.com/presentation/d/1sd-3J0JO5outGfhE_WVhp5SqAFOzed9l22UQnWOoQBI/edit?usp=sharing)  
-\- [<span class="underline">Suggested
+- [<span class="underline">Suggested
 Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5dR/view?usp=sharing)
 
 # Facilitators will need:
 
-\- A large device that can show a countdown timer for the timed speaking
+- A large device that can show a countdown timer for the timed speaking
 presentations, such as an iPad. If you have a projector, you could
 project
 [<span class="underline">https://e.ggtimer.com/</span>](https://e.ggtimer.com/)
 instead.  
-\- Sign up sheet, clipboard, pen
+- Sign up sheet, clipboard, pen
 
 # Teacher Notes
 
