@@ -44,8 +44,7 @@ a chance to practice speaking.
 for non-binary genders\], \[etc.\].  
 - Please do not wear scents. Many people are allergic or sensitive.
 
-#   
-Workshop Assets for Facilitators
+### Workshop Assets for Facilitators
 
 - Script (the document you are reading now)  
 -
@@ -53,7 +52,7 @@ Workshop Assets for Facilitators
 - [<span class="underline">Suggested
 Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5dR/view?usp=sharing)
 
-# Facilitators will need:
+### Facilitators will need:
 
 - A large device that can show a countdown timer for the timed speaking
 presentations, such as an iPad. If you have a projector, you could
@@ -62,7 +61,7 @@ project
 instead.  
 - Sign up sheet, clipboard, pen
 
-# Teacher Notes
+### Teacher Notes
 
   - > None of this is mandatory. Feel free to change any of it in any
     > way. If you are wondering if you can do something differently, the
@@ -136,7 +135,7 @@ instead.
   - > If it suits your group better, you can do this online instead of
     > in person.
 
-# Workshop Script
+### Workshop Script
 
 **ℹ️ *Facilitator*** *- None of this is mandatory. Feel free to change
 any of it in  
@@ -161,13 +160,13 @@ you want to.
 
 > ***Facilitator** - Proceed to next slide, Introductions… us*
 
-## Introduce Facilitator(s)
+### Introduce Facilitator(s)
 
 **ℹ️ *Facilitator*** *- Facilitators say a few words about themselves.*
 
 > ***Facilitator** - Proceed to next slide, Agenda*
 
-## Agenda
+### Agenda
 
 The agenda that we are going to cover today is:
 
@@ -185,11 +184,11 @@ The agenda that we are going to cover today is:
 
 ***Facilitator** - Proceed to next slide, Introductions*
 
-## **1. Introduction**
+### **1. Introduction**
 
-## ***Facilitator** - Proceed to next slide, In this section*
+### ***Facilitator** - Proceed to next slide, In this section*
 
-## In this section
+### In this section
 
   - > Introductions
 
@@ -214,7 +213,7 @@ countdown timer*
 
 ***Facilitator** - Proceed to next slide, Introductions*
 
-## 🗣 Ice Breaker
+### 🗣 Ice Breaker
 
 Let's all introduce ourselves. Going around the circle, you will each
 have a minute to say:
@@ -239,7 +238,7 @@ for*
 ***Facilitator** - Proceed to next slide, Why we are holding a workshop
 for*
 
-## **ℹ️ *\> Diversity Section*** *-* Why are we holding a workshop for folks from underrepresented groups 
+### **ℹ️ *\> Diversity Section*** *-* Why are we holding a workshop for folks from underrepresented groups 
 
 There are a few reasons that we want to hold this workshop for folks
 from underrepresented groups today:
@@ -286,7 +285,7 @@ groups.\]
 
 ***Facilitator** - Proceed to next slide, What are we looking for?*
 
-## What We Are Looking For
+### What We Are Looking For
 
 **ℹ️ *Facilitators*** *- If you are giving this workshop to recruit
 speakers for a  
@@ -296,7 +295,7 @@ subjects or to particular audiences.*
 
 > ***Facilitator** - Proceed to next slide, Dispelling the myths*
 
-## Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
+### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
 
 Everyone has their own reasons for not speaking in public, especially at
 tech events, but most of those reasons are based on myths that we can
@@ -304,7 +303,7 @@ dispel or concerns that we can address:
 
 ***Facilitator** - Proceed to next slide, Myth 1*
 
-### Myth 1: I’m not an expert\!
+#### Myth 1: I’m not an expert\!
 
 That’s okay, you don’t have to be an expert\! Everyone has a different
 idea of what “expert” means.
@@ -361,7 +360,7 @@ your topic, that will shine through and that’s what’s important.
 
 ***Facilitator** - Proceed to next slide, Myth 2*
 
-### Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.
+#### Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.
 
 Yes, people very well might ask questions you can’t answer, but that’s
 okay. Your audience understands that not everyone knows everything, and
@@ -387,7 +386,7 @@ We’re going to be going into all of these in much more detail in Section
 
 ***Facilitator** - Proceed to next slide, Myth 3*
 
-### Myth 3: I’m too nervous to speak\!
+#### Myth 3: I’m too nervous to speak\!
 
 Your audience gets that too – after all, most of them didn’t have the
 bravery to speak.
@@ -412,7 +411,7 @@ We’ll talk more about this in the Better Speaker section later as well.
 
 ***Facilitator** - Proceed to next slide, Myth 4*
 
-### Myth 4: I have failed if everyone in the audience isn’t totally engaged.
+#### Myth 4: I have failed if everyone in the audience isn’t totally engaged.
 
 Sometimes when you’re speaking, you will look out at the audience and it
 will look like everyone is bored. That’s okay.
@@ -432,7 +431,7 @@ people who do connect with you.
 
 ***Facilitator** - Proceed to next slide, Myth 5*
 
-### Myth 5: A talk followed by a Q\&A is the only format I can use to share my knowledge.
+#### Myth 5: A talk followed by a Q\&A is the only format I can use to share my knowledge.
 
 No, there are plenty of other ways to share your expertise at WordPress
 events. You could lead a group discussion, lead a workshop, or put
@@ -452,7 +451,7 @@ nervous because it’s okay to talk fast and it’s over quickly.
 > 
 > ***Facilitator** - Proceed to next slide, Why do you want to speak?*
 
-## Why Do You Want To Speak?
+### Why Do You Want To Speak?
 
 Those are reasons people don’t want to speak. What about reasons people
 do want to speak. Here is another discussion question for you: Why do
@@ -462,25 +461,16 @@ you want to speak?
 
 Here are some of the common reasons:
 
-1.  > Be seen as an authority in your field
-
-2.  > Share your knowledge with others
-
-3.  > Build your confidence
-
-4.  > Give back to the community
-
-5.  > Meet people - be part of the community
-
-6.  > Travel
-
-7.  > Learn at conferences - speaking teaches you more
-
-8.  > It’s fun\!
-
-9.  > It’s rewarding, you can have a feeling of accomplishment
-
-10. > Career building
+1. Be seen as an authority in your field
+2. Share your knowledge with others
+3. Build your confidence
+4. Give back to the community
+5. Meet people - be part of the community
+6. Travel
+7. Learn at conferences - speaking teaches you more
+8. It’s fun\!
+9. It’s rewarding, you can have a feeling of accomplishment
+10. Career building
 
 **ℹ️ \> Diversity item** - 11. Be a role model for folks from
 underrepresented groups
@@ -495,7 +485,7 @@ that by being on stage you are a role model for folks like you.
 
 > ***Facilitator** - Proceed to next slide, In this section*
 
-## In this section
+### In this section
 
   - > Talk Formats
 
@@ -509,7 +499,7 @@ that by being on stage you are a role model for folks like you.
 
 ***Facilitator** - Proceed to next slide, Talk formats*
 
-## Talk Formats
+### Talk Formats
 
 **ℹ️ \> Diversity** - Now that we've talked about why we are holding
 this workshop for  
@@ -560,7 +550,7 @@ really engaging.
 
 ***Facilitator** - Proceed to next slide, Brainstorm*
 
-## **✍** Brainstorm
+### **✍** Brainstorm
 
 **ℹ️ *Facilitator*** *- If you printed the handbooks:*
 
@@ -651,7 +641,7 @@ great.
 ***  
 Facilitator** - Proceed to next slide, Topic selection*
 
-## **✍** Topic Selection
+### **✍** Topic Selection
 
 Okay, now you’ve got some good, bad and ugly ideas, we are going to do
 an exercise where you are picking the two topics from your list that you
@@ -698,7 +688,7 @@ Now we are going to do exercises to pick a topic.
 
 ***Facilitator** - Proceed to next slide, Pick a topic*
 
-## **✍** Pick a Topic *(small groups)*
+### **✍** Pick a Topic *(small groups)*
 
 Go ahead and pick the topic you’re most excited about and you think
 you’d like to develop further. For anyone who would like to discuss it
@@ -714,14 +704,14 @@ different topic later.
 
 ***Facilitator** - Proceed to Slide: Discuss topics*
 
-## 🗣 Discuss topics *(whole room)*
+### 🗣 Discuss topics *(whole room)*
 
 Let’s hear from a few of you the topics you’ve chosen with everyone. If
 anyone is having a hard time choosing, we can help you pick which one
 we’d be most interested in hearing. Everyone else, see if you can use
 the coaching for your own topics.
 
-## **✍** Refining Topic
+### **✍** Refining Topic
 
 To further refine your topic, we are going to apply “Who, What, Why,
 How, When, Where”. For example: Who is this plug for? What does the
@@ -752,9 +742,9 @@ you use it? Where would you use it?
 
 ***Facilitator** - Proceed to next slide, Present topic*
 
-## 🗣 Present Topic
+### 🗣 Present Topic
 
-## **ℹ️ *Facilitator*** *- Regroup the room into a circle.*
+### **ℹ️ *Facilitator*** *- Regroup the room into a circle.*
 
 Now we are going to go around the circle (or go around the room) and
 give everyone the opportunity to say what topic they chose. If you'd
@@ -773,11 +763,11 @@ Topic.
 
 # 3\. Writing the Pitch
 
-## ***Facilitator** - Proceed to next slide, In this section*
+### ***Facilitator** - Proceed to next slide, In this section*
 
-## 
+### 
 
-## In this section
+### In this section
 
   - > The Proposal aka “Pitch”
 
@@ -789,7 +779,7 @@ Topic.
 
   - > Present Titles and Pitches (optional)
 
-## Writing The Proposal aka “Pitch”
+### Writing The Proposal aka “Pitch”
 
 Whatever your motivations for speaking, you first need to get selected
 to speak, and for that you need to create a proposal or “pitch” (we will
@@ -859,9 +849,9 @@ events:
   - > You may want to stress different “hooks” or “points of interest”
     > depending on the audience or event.
 
-### *Facilitator - Proceed to next slide, 6 Important Points*
+#### *Facilitator - Proceed to next slide, 6 Important Points*
 
-### There are also 6 important points to take note of when writing both your outline and your pitch
+#### There are also 6 important points to take note of when writing both your outline and your pitch
 
 (Source:
 [<span class="underline">http://weareallaweso.me/for\_speakers/how-to-write-a-compelling-proposal.html</span>](http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html))
@@ -926,7 +916,7 @@ benefit to your audience.
 > 
 > ***Facilitator** - Proceed to next slide, Great title*
 
-## Coming Up With a Great Title
+### Coming Up With a Great Title
 
 "All great talks have a great title\!"
 
@@ -983,7 +973,7 @@ But here are some pointers to follow:
 > 
 > ***Facilitator** - Proceed to next slide, Exercise*
 
-## **✍** Writing Exercise
+### **✍** Writing Exercise
 
 Everyone will have 15 minutes now to try drafting a talk proposal for
 the idea you brainstormed earlier, the title, and your bio. There will
@@ -1014,7 +1004,7 @@ something you liked about it before suggesting an improvement.
 I will give you 12 minutes for this, 3 minutes each. I will let you know
 when to change to the next person.
 
-## Present to Big Group
+### Present to Big Group
 
 Let’s hear a few of the titles and pitches in the big group. You will
 have 2 minutes or less for your mini presentation. There are no
@@ -1053,7 +1043,7 @@ theirs.
 
 ***Facilitator** - Proceed to next slide, In this section*
 
-## In this section
+### In this section
 
   - > Writing the outline
 
@@ -1063,7 +1053,7 @@ theirs.
 
 ***Facilitator** - Proceed to next slide, Writing the outline*
 
-## Writing The Outline
+### Writing The Outline
 
 You’ve done the Who What Why How When Where questions about your topic.
 With these ideas in mind, you will be creating an outline for your talk.
@@ -1074,7 +1064,7 @@ and conclusion. Let’s start with the introduction.
 
 ***Facilitator** - Proceed to next slide, Introduction*
 
-### Introduction
+#### Introduction
 
 What makes a great introduction?
 
@@ -1119,9 +1109,9 @@ Tips for your introduction:
     > yourself is asking someone close to you to introduce you, to give
     > you praise and assign credibility.
 
-### *Facilitator - Proceed to next slide, Body*
+#### *Facilitator - Proceed to next slide, Body*
 
-### Body
+#### Body
 
 Now we are going to create an outline of your talk.
 
@@ -1138,7 +1128,7 @@ Another tip is people think in 3s, so if you can break your talk down to
 
 ***Facilitator** - Proceed to next slide, Conclusion*
 
-### Conclusion
+#### Conclusion
 
 For the conclusion, you will want to:
 
@@ -1155,7 +1145,7 @@ For the conclusion, you will want to:
 
 ***Facilitator** - Proceed to next slide, Great title*
 
-## Refining Your Title
+### Refining Your Title
 
 Once you have your outline, you might want to further refine the title
 for your talk to be more specific\!
@@ -1171,7 +1161,7 @@ You want to:
 
 ***Facilitator** - Proceed to next slide, Present title and outline*
 
-## **✍** Exercise: Outline and Title
+### **✍** Exercise: Outline and Title
 
 Spend 10 minutes quickly drafting up the body of your talk and writing
 down some possible talk titles refinements. Don’t overthink this. Just
@@ -1181,9 +1171,9 @@ If you have extra time you can work on introduction and conclusion as
 well, but the most important thing right now is the body. The rest will
 come from that.
 
-## ***Facilitator** - Proceed to next slide, Present title and outline*
+### ***Facilitator** - Proceed to next slide, Present title and outline*
 
-## 🗣 Present Outline
+### 🗣 Present Outline
 
 **ℹ️ *Facilitator*** *- Change the seats into a presentation style
 format. Chairs  
@@ -1224,7 +1214,7 @@ slides or instruct them to read on their own at home.*
 
 ***Facilitator** - Proceed to next slide, In this section*
 
-## In This Section
+### In This Section
 
   - > Practising Speaking
 
@@ -1236,9 +1226,9 @@ slides or instruct them to read on their own at home.*
 
   - > Getting post-talk feedback
 
-## ***Facilitator** - Proceed to next slide, Practicing speaking*
+### ***Facilitator** - Proceed to next slide, Practicing speaking*
 
-## Practising Speaking
+### Practising Speaking
 
 The most important thing you can do to become a better speaker is to
 practise\! The more you speak - in front of a mirror, in front of
@@ -1263,15 +1253,15 @@ practising for WordCamps. If you want to practise for WordPress meetups,
 you could find smaller related meetups who would be interested in
 hearing about your WordPress topic.
 
-## ***Facilitator** - Proceed to next slide, Better speaker tips, Do*
+### ***Facilitator** - Proceed to next slide, Better speaker tips, Do*
 
-## Becoming a Better Speaker Do's and Don'ts
+### Becoming a Better Speaker Do's and Don'ts
 
 > No matter how much public speaking experience you have, there is
 > always room for improvement. Here are some do's and don'ts to help you
 > improve.
 
-### Do:
+#### Do:
 
   - > **Speak slowly.** Many speakers speak too fast, but audiences
     > almost never complain that someone went too slowly. Take pauses in
@@ -1312,9 +1302,9 @@ hearing about your WordPress topic.
     > natural and for you to feel better about deviating from your
     > script.
 
-### *Facilitator - Proceed to next slide, Better speaker tips, Don’t*
+#### *Facilitator - Proceed to next slide, Better speaker tips, Don’t*
 
-### Don't:
+#### Don't:
 
   - > **Don’t drink too much coffee.** You're already jittery from
     > nerves, so you don't need a coffee buzz on top of it\!
@@ -1336,7 +1326,7 @@ hearing about your WordPress topic.
 
 ***Facilitator** - Proceed to next slide, Handling nerves*
 
-## Handling Nerves
+### Handling Nerves
 
 Everyone gets nervous about public speaking. It is a part of being
 human. In fact, it's hard-wired: for our cavemen ancestors, any time
@@ -1414,13 +1404,13 @@ Here are some things you can do to help soothe your nerves:
 
 ***Facilitator** - Proceed to next slide, Handling Q\&A*
 
-##   
+###   
 
-## Handling Q\&A
+### Handling Q\&A
 
-## Many talks have an audience questions-and-answer session at the end.
+### Many talks have an audience questions-and-answer session at the end.
 
-### Timing
+#### Timing
 
 Ask the organizers in advance what the expectations are. Try timing your
 talk when you rehearse it and make sure you've left room for an adequate
@@ -1432,7 +1422,7 @@ session. In general, 10-20 minutes is adequate. For example, if your
 whole presentation takes up a 45-minute slot you might want to allow 35
 minutes for the presentation and 10 minutes for questions.
 
-### Interspersing Q\&A
+#### Interspersing Q\&A
 
 Some people prefer to take questions throughout their talk rather than
 holding them until the end. Let your audience know up front what you
@@ -1441,13 +1431,13 @@ due to the size of the room or the fact that your talk is being
 recorded, you'll need to give the room technician a heads-up about your
 Q\&A plans so they're ready with the audience microphone as needed.
 
-### Don't Forget to Ask for Questions\!
+#### Don't Forget to Ask for Questions\!
 
 If you're saving the Q\&A until the end, don't forget to do it once you
 finish your talk\! To remind yourself, you can add a slide at the end of
 your talk saying thanks and asking for questions.
 
-### Repeat the Question Back to the Audience
+#### Repeat the Question Back to the Audience
 
 Unless the audience is mic'd, repeat each question before answering.
 Your audience and anyone later watching the video (if your talk is being
@@ -1457,11 +1447,11 @@ Even if the audience and recording can hear the questions, sometimes
 it’s nice to repeat the question for everyone to hear it again, or to
 phrase the question more clearly.
 
-### *Facilitator - Proceed to next slide, Tricky Questions*
+#### *Facilitator - Proceed to next slide, Tricky Questions*
 
-### Some people are especially nervous about the Q\&A because difficult situations could arise. Here are some tips to make it easier.
+#### Some people are especially nervous about the Q\&A because difficult situations could arise. Here are some tips to make it easier.
 
-### Tricky Questions
+#### Tricky Questions
 
 Often speakers who are brand new to public speaking, and even ones that
 aren't, are nervous about getting asked a question that they feel they
@@ -1494,7 +1484,7 @@ There are a few ways to handle that situation:
 
 ***Facilitator** - Proceed to next slide, The smarty-pants*
 
-### The Smarty-Pants
+#### The Smarty-Pants
 
 Handling the “smarty-pants” in the audience who thinks they know better
 than you and goes on and on and on is a big fear. It doesn't happen
@@ -1506,9 +1496,9 @@ derailing it. It's possible to do this politely but firmly: "I think
 we're going to have to move on now because time is running out and I
 really want to get a few more questions in."
 
-### *Facilitator - Proceed to next slide, Unrelated questions*
+#### *Facilitator - Proceed to next slide, Unrelated questions*
 
-### Unrelated Questions
+#### Unrelated Questions
 
 Sometimes people will ask questions that have little or nothing to do
 with your talk and answering the question will derail the conversation.
@@ -1518,7 +1508,7 @@ it for you privately after."
 
 ***Facilitator** - Proceed to next slide, Silence*
 
-### Silence
+#### Silence
 
 What if you finish your talk, throw open the floor to the audience and
 there are no questions? That's totally OK\! There aren't always
@@ -1541,7 +1531,7 @@ questions.
 
 ***Facilitator** - Proceed to next slide, Errors*
 
-### Errors
+#### Errors
 
 Don't be afraid to correct errors after your talk. If someone points out
 an error – either during the Q\&A or later – go ahead and update your
@@ -1551,9 +1541,9 @@ before doing this\!
 
 ***Facilitator** - Proceed to next slide, Contact & Slides*
 
-###   
+####   
 
-### Contact & Slides
+#### Contact & Slides
 
 Once the Q\&A is over, let people know how to connect with you once
 you're done and where to find your slides. Give out your Twitter handle
@@ -1562,7 +1552,7 @@ so that it's up on the screen behind you while you take questions.
 
 ***Facilitator** - Proceed to next slide, Getting post-talk feedback*
 
-## Getting post-talk feedback
+### Getting post-talk feedback
 
 We often forget this part of the process, but getting feedback after
 your talk is really important if you ever want to get better at public
@@ -1593,17 +1583,17 @@ they think that their feedback is only going to organizers.
 
 # 6\. Creating Great Slides
 
-## ***Facilitator** - Proceed to next slide, In this section*
+### ***Facilitator** - Proceed to next slide, In this section*
 
-## 
+### 
 
-## In This Section
+### In This Section
 
   - > Good slide decks
 
   - > More tips
 
-## Good Slide Decks
+### Good Slide Decks
 
 Let's first start with a Public Service Announcement. You do **not**
 need slides with every talk. Some talks can stand on their own.
@@ -1732,7 +1722,7 @@ slide decks that you can explore at your leisure.
 
 ***Facilitator** - Proceed to next slide, More tips*
 
-## More Tips
+### More Tips
 
 Practice going through your deck using an external monitor, using a
 presentation mode which lets you see your notes. Think about bringing
@@ -1755,7 +1745,7 @@ advance your slides without having to use a keyboard or mouse. It'll let
 you stand away from your laptop and keep your hands in a more natural
 position while you speak.
 
-### Live Demos
+#### Live Demos
 
 It can be very tempting to do a live demo and hop back and forth between
 your demo and the slides. This can be hard to watch, especially if
@@ -1776,20 +1766,20 @@ discuss the possibility of speaking at an upcoming meetup or WordCamp.
 
 ***Facilitator** - Proceed to next slide, Feedback*
 
-## Feedback
+### Feedback
 
 WordCamp Central would like to know how it went. Let’s have an open
 discussion:
 
-  - > What worked well?
+  - What worked well?
 
-  - > What didn’t go well? What would you like to see change?
+  - What didn’t go well? What would you like to see change?
 
-  - > What could we have done that we didn't do?
+  - What could we have done that we didn't do?
 
-  - > What made you nervous?
+  - What made you nervous?
 
-## Your Results
+### Your Results
 
 We’d like to let WordCamp Central know how it goes. If you speak at a
 meetup or WordCamp, and especially if anything new comes out of your
@@ -1803,7 +1793,7 @@ admin, the WordPress Community Team’s Diverse Speaker Training group is
 always looking for more help. Contact Jill on Slack or Twitter:
 @jillbinder.
 
-## Photo
+### Photo
 
 We would like to take a photo for our meetup page and for WordCamp
 Central to have. Anyone can opt out.
