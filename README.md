@@ -132,8 +132,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ## Workshop Script
 
-ℹ️ **Facilitator** 
-> 
+> ℹ️
 > ***Facilitator*** *- None of this is mandatory. Feel free to change any of it in any way.*
 >
 > ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
@@ -149,7 +148,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ### Introduce Facilitator(s)
 
-ℹ️ **Facilitator**
+> ℹ️
 > ***Facilitator*** *- Facilitators say a few words about themselves.*
 > 
 > ***Facilitator** - Proceed to next slide, Agenda*
@@ -166,11 +165,11 @@ The agenda that we are going to cover today is:
 5.  Becoming a Better Speaker
 6.  Creating Great Slides
 
-***Facilitator** - Proceed to next slide, Introductions*
+> ***Facilitator** - Proceed to next slide, Introductions*
 
 ### **1. Introduction**
 
-***Facilitator** - Proceed to next slide, In this section*
+> ***Facilitator** - Proceed to next slide, In this section*
 
 ### In this section
 
