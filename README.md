@@ -1,3 +1,5 @@
+# Speaker Training Workshop
+
 We are keeping track of how many WP groups run the workshops this year.
 If you’re planning on running it, please either
 [<span class="underline">let us know
@@ -17,26 +19,25 @@ end of the workshop you will have a few ideas for talks, an outline on
 one topic, a title, a pitch/proposal for applying to events, a bio, and
 a chance to practice speaking.
 
-\*\*\*You do NOT have to have any experience in public speaking. This
+You do NOT have to have any experience in public speaking. This
 workshop is for all levels of experience.
 
 **This workshop is for you if:**
 
-\- You identify as being from an underrepresented group  
-\- You’ve thought about speaking at meetups or WordCamps but haven’t
-been able to think of a topic  
-\- You think you don't know anything worth speaking about
+- You identify as being from an underrepresented group  
+- You’ve thought about speaking at meetups or WordCamps but haven't been able to think of a topic
+- You think you don't know anything worth speaking about
 
-**We will cover:**  
-\- Why speak at WordPress events?  
-\- Dispelling some myths about speakers/speaking  
-\- Coming up with topics and choosing one  
-\- Writing a meetup description or conference pitch  
-\- Practice speaking in front of a group  
-\- Coming up with a great title  
-\- Writing your bio  
-\- Writing the outline  
-\- Practice giving a short talk
+**We will cover:**
+- Why speak at WordPress events?
+- Dispelling some myths about speakers/speaking
+- Coming up with topics and choosing one
+- Writing a meetup description or conference pitch
+- Practice speaking in front of a group
+- Coming up with a great title
+- Writing your bio
+- Writing the outline
+- Practice giving a short talk
 
 **Accessibility**
 
