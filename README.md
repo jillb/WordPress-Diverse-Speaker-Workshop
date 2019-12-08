@@ -160,22 +160,17 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 The agenda that we are going to cover today is:
 
 1.  Introductions and Ice Breaker
-
 2.  Finding a Topic
-
 3.  Writing a Pitch
-
 4.  Creating Your Talk
-
 5.  Becoming a Better Speaker
-
 6.  Creating Great Slides
 
 ***Facilitator** - Proceed to next slide, Introductions*
 
 ### **1. Introduction**
 
-### ***Facilitator** - Proceed to next slide, In this section*
+***Facilitator** - Proceed to next slide, In this section*
 
 ### In this section
 
@@ -189,18 +184,15 @@ The agenda that we are going to cover today is:
 <!-- end list -->
 
   - What we are looking for
-
   - Dispelling the myths of being a public speaker
-
   - Why do you want to speak?
 
-***Facilitator** - Proceed to next slide, Introductions… you*
-
-**ℹ️ *Facilitator*** *- Instructor might want to hold up a tablet with
-a  
-countdown timer*
-
-***Facilitator** - Proceed to next slide, Introductions*
+> ℹ️
+> ***Facilitator** - Proceed to next slide, Introductions… you*
+> 
+> ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
+> 
+> ***Facilitator** - Proceed to next slide, Introductions*
 
 ### 🗣 Ice Breaker
 
@@ -208,24 +200,20 @@ Let's all introduce ourselves. Going around the circle, you will each
 have a minute to say:
 
   - Your name
-
   - Pronouns: What pronouns would you like us to use for you today, if
     you’re comfortable sharing them. Example: She/Her, They/Them
-
   - Your WordPress experience
-
   - What is your speaking experience, if any?
-
   - What you want out of the workshop today?
 
 Know that you can always opt out of this or any of the other exercises
 in our workshop. At your turn, say, “Pass.”
 
-***Facilitator** - Proceed to next slide, Why we are holding a workshop
-for*
-
-***Facilitator** - Proceed to next slide, Why we are holding a workshop
-for*
+>
+> ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
+> 
+> ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
+>
 
 ### **ℹ️ *\> Diversity Section*** *-* Why are we holding a workshop for folks from underrepresented groups 
 
