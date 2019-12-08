@@ -132,26 +132,27 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ### Workshop Script
 
-ℹ️ 
+ℹ️ ***Facilitator** 
 > 
 > ***Facilitator*** *- None of this is mandatory. Feel free to change any of it in any way.*
 >
-> ℹ️ ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
+> ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
 > 
-> ℹ️ ***Facilitator** - Please count the number of diverse participants that you have and report back to the Diverse Speaker Training group what your number is, along with the picture that you take at the end of the session.*
+> ***Facilitator** - Please count the number of diverse participants that you have and report back to the Diverse Speaker Training group what your number is, along with the picture that you take at the end of the session.*
 > 
-> ℹ️ ***Facilitator** - If it’s a small group (15 or less), arrange seats in a circle. Otherwise, set up small groups of 4-5 each. In both scenarios, we will be splitting into small groups of 4-5 each starting in the Pick A Topic section.*
-
-You can use the toilet at any time, and get up and move around whenever
-you want to.
-
-ℹ️ ***Facilitator** - Proceed to next slide, Introductions… us*
+> ***Facilitator** - If it’s a small group (15 or less), arrange seats in a circle. Otherwise, set up small groups of 4-5 each. In both scenarios, we will be splitting into small groups of 4-5 each starting in the Pick A Topic section.*
+> 
+> You can use the toilet at any time, and get up and move around whenever you want to.
+> 
+> ***Facilitator** - Proceed to next slide, Introductions… us*
+>
 
 ### Introduce Facilitator(s)
 
-**ℹ️ *Facilitator*** *- Facilitators say a few words about themselves.*
-
-***Facilitator** - Proceed to next slide, Agenda*
+ℹ️ ***Facilitator**
+> ***Facilitator*** *- Facilitators say a few words about themselves.*
+> 
+> ***Facilitator** - Proceed to next slide, Agenda*
 
 ### Agenda
 
