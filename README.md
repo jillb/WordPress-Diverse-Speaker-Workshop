@@ -148,7 +148,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ### Introduce Facilitator(s)
 
-> ℹ️
+> ℹ️  
 > ***Facilitator*** *- Facilitators say a few words about themselves.*
 > 
 > ***Facilitator** - Proceed to next slide, Agenda*
@@ -186,7 +186,7 @@ The agenda that we are going to cover today is:
   - Dispelling the myths of being a public speaker
   - Why do you want to speak?
 
-> ℹ️
+> ℹ️  
 > ***Facilitator** - Proceed to next slide, Introductions… you*
 > 
 > ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
@@ -253,21 +253,22 @@ from underrepresented groups today:
     people confidence and helps them feel like they belong there. They
     feel less underrepresented.
 
-**ℹ️ *Facilitator*** *-* \[Add in anything specific why your group wants
-to hold this workshop for outreach to folks from underrepresented
-groups.\]
-
-***Facilitator** - Proceed to next slide, What are we looking for?*
-
-***Facilitator** - Proceed to next slide, What are we looking for?*
+> ℹ️  
+> ***Facilitator*** *-* \[Add in anything specific why your group wants
+> to hold this workshop for outreach to folks from underrepresented
+> groups.\]
+> 
+> ***Facilitator** - Proceed to next slide, What are we looking for?*
+> 
+> ***Facilitator** - Proceed to next slide, What are we looking for?*
 
 ### What We Are Looking For
 
-**ℹ️ *Facilitators*** *- If you are giving this workshop to recruit
-speakers for a  
-particular WordCamp or meetup, this is a good time to explain what  
-you are looking for if you need speakers to speak on particular  
-subjects or to particular audiences.*
+> ℹ️  
+> ***Facilitators*** - If you are giving this workshop to recruit
+> speakers for a particular WordCamp or meetup, this is a good time to explain what  
+> you are looking for if you need speakers to speak on particular  
+> subjects or to particular audiences.
 
 ***Facilitator** - Proceed to next slide, Dispelling the myths*
 
