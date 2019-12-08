@@ -133,6 +133,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 ## Workshop Script
 
 > ℹ️  
+>
 > ***Facilitator*** *- None of this is mandatory. Feel free to change any of it in any way.*
 >
 > ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
@@ -149,6 +150,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 ### Introduce Facilitator(s)
 
 > ℹ️  
+> 
 > ***Facilitator*** *- Facilitators say a few words about themselves.*
 > 
 > ***Facilitator** - Proceed to next slide, Agenda*
@@ -174,19 +176,14 @@ The agenda that we are going to cover today is:
 ### In this section
 
   - Introductions
-
-<!-- end list -->
-
-  - **ℹ️ If doing for Diversity** - Why are we holding a workshop
+  - **(ℹ️ If doing for Diversity)** - Why are we holding a workshop
     for folks from underrepresented groups
-
-<!-- end list -->
-
   - What we are looking for
   - Dispelling the myths of being a public speaker
   - Why do you want to speak?
 
 > ℹ️  
+> 
 > ***Facilitator** - Proceed to next slide, Introductions… you*
 > 
 > ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
@@ -214,7 +211,8 @@ in our workshop. At your turn, say, “Pass.”
 > ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
 >
 
-### **ℹ️ *\> Diversity Section*** *-* Why are we holding a workshop for folks from underrepresented groups 
+ℹ️ ***\> Diversity Section***
+### Why are we holding a workshop for folks from underrepresented groups 
 
 There are a few reasons that we want to hold this workshop for folks
 from underrepresented groups today:
@@ -254,6 +252,7 @@ from underrepresented groups today:
     feel less underrepresented.
 
 > ℹ️  
+>
 > ***Facilitator*** *-* \[Add in anything specific why your group wants
 > to hold this workshop for outreach to folks from underrepresented
 > groups.\]
@@ -265,6 +264,7 @@ from underrepresented groups today:
 ### What We Are Looking For
 
 > ℹ️  
+>
 > ***Facilitators*** - If you are giving this workshop to recruit
 > speakers for a particular WordCamp or meetup, this is a good time to explain what  
 > you are looking for if you need speakers to speak on particular  
