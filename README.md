@@ -207,8 +207,6 @@ in our workshop. At your turn, say, “Pass.”
 
 >
 > ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
-> 
-> ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
 >
 
 ℹ️ ***\> Diversity Section***
@@ -259,7 +257,6 @@ from underrepresented groups today:
 > 
 > ***Facilitator** - Proceed to next slide, What are we looking for?*
 > 
-> ***Facilitator** - Proceed to next slide, What are we looking for?*
 
 ### What We Are Looking For
 
@@ -269,8 +266,9 @@ from underrepresented groups today:
 > speakers for a particular WordCamp or meetup, this is a good time to explain what  
 > you are looking for if you need speakers to speak on particular  
 > subjects or to particular audiences.
-
-***Facilitator** - Proceed to next slide, Dispelling the myths*
+>
+> ***Facilitator** - Proceed to next slide, Dispelling the myths*
+>
 
 ### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
 
@@ -278,7 +276,7 @@ Everyone has their own reasons for not speaking in public, especially at
 tech events, but most of those reasons are based on myths that we can
 dispel or concerns that we can address:
 
-***Facilitator** - Proceed to next slide, Myth 1*
+> ***Facilitator** - Proceed to next slide, Myth 1*
 
 #### Myth 1: I’m not an expert\!
 
@@ -305,8 +303,7 @@ everyone and soon they’ll find out. Imposter syndrome is really common –
 you aren’t alone.
 
 **ℹ️ \> Diversity section** - A lot of us have imposter syndrome because
-we  
-don't see people like us presented as experts. Many people who are  
+we don't see people like us presented as experts. Many people who are  
 not part of the over-represented majority set a much higher bar for  
 “expert” knowledge.
 
@@ -335,7 +332,7 @@ new.
 So you might not feel like an expert, but you are\! If you care about
 your topic, that will shine through and that’s what’s important.
 
-***Facilitator** - Proceed to next slide, Myth 2*
+> ***Facilitator** - Proceed to next slide, Myth 2*
 
 #### Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.
 
