@@ -132,7 +132,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ## Workshop Script
 
-> ℹ️
+> ℹ️  
 > ***Facilitator*** *- None of this is mandatory. Feel free to change any of it in any way.*
 >
 > ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
