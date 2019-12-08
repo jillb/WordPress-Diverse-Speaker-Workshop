@@ -130,9 +130,9 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
   - If it suits your group better, you can do this online instead of
     in person.
 
-### Workshop Script
+## Workshop Script
 
-ℹ️ ***Facilitator** 
+ℹ️ **Facilitator** 
 > 
 > ***Facilitator*** *- None of this is mandatory. Feel free to change any of it in any way.*
 >
@@ -149,10 +149,11 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
 ### Introduce Facilitator(s)
 
-ℹ️ ***Facilitator**
+ℹ️ **Facilitator**
 > ***Facilitator*** *- Facilitators say a few words about themselves.*
 > 
 > ***Facilitator** - Proceed to next slide, Agenda*
+>
 
 ### Agenda
 
