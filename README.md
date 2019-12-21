@@ -179,18 +179,17 @@ The agenda that we are going to cover today is:
 ### In this section
 
   - **Introductions**
-  - ♦️ *(If including Diversity)* - *Why are we holding a workshop
-    for folks from underrepresented groups*
+  - ♦️ *(If including Diversity)* -  
+    **Why are we holding a workshop for folks from underrepresented groups**
   - **What we are looking for**
   - **Dispelling the myths of being a public speaker**
   - **Why do you want to speak?**
 
-> ℹ️  
-> 
+
 > ***Facilitator** - Proceed to next slide, Introductions… you*
-> 
-> ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
-> 
+
+> ℹ️ ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
+
 > ***Facilitator** - Proceed to next slide, Introductions*
 
 ### 🗣 Ice Breaker
