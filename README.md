@@ -299,10 +299,10 @@ the knowledge or skills to be here, but you have managed to fool
 everyone and soon they’ll find out. Imposter syndrome is really common –
 you aren’t alone.
 
-**♦️ Diversity item** - A lot of us have imposter syndrome because
-we don't see people like us presented as experts. Many people who are  
-not part of the over-represented majority set a much higher bar for  
-“expert” knowledge.
+**♦️ Diversity item** - A lot of us have imposter syndrome because we
+don't see people like us presented as experts. Many people who are not
+part of the over-represented majority set a much higher bar for “expert”
+knowledge.
 
 Many communities have surveyed their members to ask what kind of
 information they want to learn at meetups and WordCamps, and most people
