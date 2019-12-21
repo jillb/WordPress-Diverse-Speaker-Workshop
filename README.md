@@ -3,6 +3,10 @@
   We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either [<span class="underline">let us know here</span>](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.
 </div>
 
+<style>
+  .callout{ background-color: red; }
+  </style>
+
 ## Meetup Description You Can Use
 
 Does the thought of speaking at a WordPress event intrigue you? This is
