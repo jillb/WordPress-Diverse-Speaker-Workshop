@@ -178,12 +178,12 @@ The agenda that we are going to cover today is:
 
 ### In this section
 
-  - Introductions
-  - ♦️ **(If doing for Diversity)** - Why are we holding a workshop
-    for folks from underrepresented groups
-  - What we are looking for
-  - Dispelling the myths of being a public speaker
-  - Why do you want to speak?
+  - **Introductions**
+  - ♦️ *(If including Diversity)* - *Why are we holding a workshop
+    for folks from underrepresented groups*
+  - **What we are looking for**
+  - **Dispelling the myths of being a public speaker**
+  - **Why do you want to speak?**
 
 > ℹ️  
 > 
