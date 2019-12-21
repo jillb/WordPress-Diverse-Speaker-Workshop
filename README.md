@@ -1,7 +1,7 @@
 # Speaker Training Workshop
 <table>
   <tr>
-    <td style="font-size: 3em">👀</td>
+    <td><span style="font-size: 3em">👀</span></td>
     <td>We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either <a href="https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/">let us know here</a> or message @jillbinder on Slack.</td>
   </tr>
 </table>
