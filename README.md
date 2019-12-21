@@ -1,11 +1,11 @@
 # Speaker Training Workshop
-<div class="callout callout-alert">
-  We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either [<span class="underline">let us know here</span>](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.
-</div>
+<table>
+  <tr>
+    <td style="font-size: 3em">👀</td>
+    <td>We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either [<span class="underline">let us know here</span>](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.</td>
+  </tr>
+</table>
 
-<style>
-  .callout{ background-color: red; }
-  </style>
 
 ## Meetup Description You Can Use
 
