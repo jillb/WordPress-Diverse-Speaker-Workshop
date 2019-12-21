@@ -103,7 +103,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
     event description is written in such a way to still attract folks
     in marginalized and underrepresented groups. The workshop script
     gives you some additional items to add if you’re running it for
-    Diversity.
+    Diversity ♦️.
 
   - The note at the start about getting up and moving around whenever
     they want to is for accessibility for those who get antsy in their
@@ -179,7 +179,7 @@ The agenda that we are going to cover today is:
 ### In this section
 
   - Introductions
-  - ℹ️ **(If doing for Diversity)** - Why are we holding a workshop
+  - ♦️ **(If doing for Diversity)** - Why are we holding a workshop
     for folks from underrepresented groups
   - What we are looking for
   - Dispelling the myths of being a public speaker
@@ -208,11 +208,12 @@ have a minute to say:
 Know that you can always opt out of this or any of the other exercises
 in our workshop. At your turn, say, “Pass.”
 
+***♦️ Diversity Section Begins***
+
 >
 > ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
 >
 
-ℹ️ ***\> Begin Diversity Section***
 ### Why are we holding a workshop for folks from underrepresented groups 
 
 There are a few reasons that we want to hold this workshop for folks
@@ -252,24 +253,20 @@ from underrepresented groups today:
     people confidence and helps them feel like they belong there. They
     feel less underrepresented.
 
-> ℹ️  
->
-> ***Facilitator*** *-* \[Add in anything specific why your group wants
+> ℹ️ ***Facilitator*** *-* \[Add in anything specific why your group wants
 > to hold this workshop for outreach to folks from underrepresented
 > groups.\]
 
-ℹ️ ***\> End Diversity Section***
+***♦️ Diversity Section Ends***
 
-> 
+
 > ***Facilitator** - Proceed to next slide, What are we looking for?*
-> 
 
 
 ### What We Are Looking For
 
-> ℹ️  
->
-> ***Facilitators*** - If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.
+
+> ℹ️ ***Facilitators*** - If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.
 >
 > ***Facilitator** - Proceed to next slide, Dispelling the myths*
 >
