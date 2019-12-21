@@ -103,7 +103,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
     event description is written in such a way to still attract folks
     in marginalized and underrepresented groups. The workshop script
     gives you some additional items to add if you’re running it for
-    Diversity ♦️.
+    Diversity (♦️).
 
   - The note at the start about getting up and moving around whenever
     they want to is for accessibility for those who get antsy in their
@@ -115,7 +115,7 @@ Timeline</span>](https://drive.google.com/file/d/1CPkbImBkSOwRs-X7FJlBno3GqbWVU5
 
   - Offer childcare if you can.
 
-  - If you’re doing this for diversity purposes, if at all possible
+  - If you’re doing this for diversity purposes (♦️), if at all possible
     have it be organized and led by a representative of the folks whom
     it is for.
 
@@ -209,9 +209,7 @@ in our workshop. At your turn, say, “Pass.”
 
 ***♦️ Diversity Section Begins***
 
->
 > ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
->
 
 ### Why are we holding a workshop for folks from underrepresented groups 
 
@@ -266,9 +264,8 @@ from underrepresented groups today:
 
 
 > ℹ️ ***Facilitators*** - If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.
->
+
 > ***Facilitator** - Proceed to next slide, Dispelling the myths*
->
 
 ### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
 
@@ -302,7 +299,7 @@ the knowledge or skills to be here, but you have managed to fool
 everyone and soon they’ll find out. Imposter syndrome is really common –
 you aren’t alone.
 
-**ℹ️ \> Diversity section** - A lot of us have imposter syndrome because
+**♦️ Diversity item** - A lot of us have imposter syndrome because
 we don't see people like us presented as experts. Many people who are  
 not part of the over-represented majority set a much higher bar for  
 “expert” knowledge.
@@ -441,7 +438,7 @@ Here are some of the common reasons:
 9. It’s rewarding, you can have a feeling of accomplishment
 10. Career building
 
-**ℹ️ \> Diversity item** - 11. Be a role model for folks from
+**♦️ Diversity item** - 11. Be a role model for folks from
 underrepresented groups
 
 **\> General** - 11. If you identify as someone from an underrepresented
@@ -470,17 +467,11 @@ that by being on stage you are a role model for folks like you.
 
 ### Talk Formats
 
-**ℹ️ \> Diversity** - Now that we've talked about why we are holding
-this workshop for  
-folks from underrepresented groups, myths about what it takes to be a
-speaker,  
-and why you want to speak, let's start talking about the actual talks.
+**♦️ Diversity** - Now that we've talked about why we are holding
+this workshop for folks from underrepresented groups, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
 
-**\> General** - Now that we've talked about why we are holding this
-workshop, what  
-kind of things we're looking for, myths about what it takes to be a
-speaker, and  
-why you want to speak, let's start talking about the actual talks.
+**General** - Now that we've talked about why we are holding this
+workshop, what kind of things we're looking for, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
 
 A lot of talks are big "how to" brain dump sessions. "How to make a
 plugin" might be someone walking through how to make it, maybe even live
