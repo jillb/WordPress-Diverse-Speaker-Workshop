@@ -442,7 +442,7 @@ Here are some of the common reasons:
   - It’s rewarding, you can have a feeling of accomplishment
   - Career building
   - **♦️ Diversity item** - Be a role model for folks from underrepresented groups
-  - If you identify as someone from an underrepresented group, know that by being on stage you are a role model for folks like you.
+  - **♦️ If NOT Diversity** - If you identify as someone from an underrepresented group, know that by being on stage you are a role model for folks like you.
 
 > ***Facilitator** - Proceed to next slide, Finding a topic*
 
@@ -466,11 +466,9 @@ Here are some of the common reasons:
 
 ### Talk Formats
 
-**♦️ Diversity** - Now that we've talked about why we are holding
-this workshop for folks from underrepresented groups, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
+**♦️ Diversity description** - Now that we've talked about why we are holding this workshop for folks from underrepresented groups, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
 
-**General** - Now that we've talked about why we are holding this
-workshop, what kind of things we're looking for, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
+**♦️ Geneneral, NON-Diversity training** - Now that we've talked about why we are holding this workshop, what kind of things we're looking for, myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.
 
 A lot of talks are big "how to" brain dump sessions. "How to make a
 plugin" might be someone walking through how to make it, maybe even live
@@ -702,29 +700,19 @@ minutes to polish your topic.
 
 ### 🗣 Present Topic
 
-### **ℹ️ *Facilitator*** *- Regroup the room into a circle.*
+> **ℹ️ *Facilitator*** *- Regroup the room into a circle.*
 
 Now we are going to go around the circle (or go around the room) and
 give everyone the opportunity to say what topic they chose. If you'd
 rather not, when it’s your turn say, "Pass."
 
-> **ℹ️ *Facilitator*** *- If someone seems really doubtful about their
-topic, ask  
-the group if they would like to hear this topic, put up their hands.
-If  
-time allows, offer to let students talk for a minute or two about
-their  
-Topic.  
-*
+> **ℹ️ *Facilitator*** *- If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands. If time allows, offer to let students talk for a minute or two about their Topic.
 
->  
 > ***Facilitator** - Proceed to next slide, Write your pitch*
 
 # 3\. Writing the Pitch
 
-### ***Facilitator** - Proceed to next slide, In this section*
-
-### 
+> ***Facilitator** - Proceed to next slide, In this section*
 
 ### In this section
 
@@ -799,8 +787,6 @@ events:
   - The tone may be different. A business crowd may be formal. A
     meetup may be more casual. So customize the tone of your pitch to
     your specific audience.
-
-<!-- end list -->
 
   - At WordPress we tend to be pretty casual.
 
