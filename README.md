@@ -1,4 +1,7 @@
 # Speaker Training Workshop
+
+This document contains the speaker slide notes for the Wordpress Diversity Speaker Training Workshop. Find out about [upcoming workshops](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) in the WordPress Handbook.
+
 <table>
   <tr>
     <td><span style="font-size: 3em">👀</span></td>
