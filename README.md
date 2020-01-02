@@ -181,8 +181,10 @@ The agenda that we are going to cover today is:
   - **Dispelling the myths of being a public speaker**
   - **Why do you want to speak?**
 
-> ***Facilitator** - Proceed to next slide, Introductions… you*  
-> ℹ️ ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*  
+> ***Facilitator** - Proceed to next slide, Introductions… you*
+
+> ℹ️ ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
+
 > ***Facilitator** - Proceed to next slide, Introductions*  
 
 ### 🗣 Ice Breaker
@@ -405,12 +407,12 @@ You could lead a group discussion, lead a workshop, or put together a panel.
 Some events offer the opportunity for lightning talks, which are usually about 
 10 minutes. This is a great format if you’re nervous because it’s okay to talk fast and it’s over quickly.
 
+> ℹ️ 
+> ***Facilitator - This is optional based on time available:***
 >
-> **ℹ️ *Facilitator - ***This is optional based on time available:
->
-
 > ***Facilitator** - Proceed to next slide, Why haven’t you spoken?*
->
+
+
 > ***Facilitator** - Proceed to next slide, Discussion*  
 
 **Questions for the group:** What do you think? What are things you're
