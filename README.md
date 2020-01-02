@@ -181,9 +181,9 @@ The agenda that we are going to cover today is:
   - **Dispelling the myths of being a public speaker**
   - **Why do you want to speak?**
 
-> ***Facilitator** - Proceed to next slide, Introductions… you*
-> ℹ️ ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*
-> ***Facilitator** - Proceed to next slide, Introductions*
+> ***Facilitator** - Proceed to next slide, Introductions… you*  
+> ℹ️ ***Facilitator*** *- Instructor might want to hold up a tablet with a countdown timer*  
+> ***Facilitator** - Proceed to next slide, Introductions*  
 
 ### 🗣 Ice Breaker
 
