@@ -706,7 +706,7 @@ Now we are going to go around the circle (or go around the room) and
 give everyone the opportunity to say what topic they chose. If you'd
 rather not, when it’s your turn say, "Pass."
 
-> **ℹ️ *Facilitator*** *- If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands. If time allows, offer to let students talk for a minute or two about their Topic.
+> **ℹ️ *Facilitator*** *- If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands. If time allows, offer to let students talk for a minute or two about their Topic.*
 
 > ***Facilitator** - Proceed to next slide, Write your pitch*
 
@@ -736,9 +736,7 @@ step in the overall process of developing your talk.
 
   - What makes a great pitch? Here is an example of a good one:
 
-> **ℹ️ *Facilitator*** *- You can substitute this with an example that
-fits your  
-Event.*
+> **ℹ️ *Facilitator*** *- You can substitute this with an example that fits your Event.*
 
 >  
 > ***Facilitator** - Proceed to next slide, Example*
@@ -796,7 +794,7 @@ events:
   - You may want to stress different “hooks” or “points of interest”
     depending on the audience or event.
 
-#### *Facilitator - Proceed to next slide, 6 Important Points*
+> ***Facilitator** - Proceed to next slide, 6 Important Points*
 
 #### There are also 6 important points to take note of when writing both your outline and your pitch
 
@@ -888,7 +886,7 @@ Good talk titles generally follow these guidelines:
 
 > ***Facilitator** - Proceed to next slide, Writing your bio [content]*
 
-Writing Your Bio
+### Writing Your Bio
 
 When you submit a proposal or pitch to an event, you will most often be
 asked to include a short bio. Bios are often the hardest to write well.
@@ -932,15 +930,15 @@ the idea you brainstormed earlier, the title, and your bio. There will
 be a chance to read the title and pitch to the group after, if you
 wish.  
   
-*Do writing exercise*
+## *Do writing exercise*
 
 >  
 > ***Facilitator** - Proceed to next slide, Present titles and pitches*
 
-*  
-*🗣 Present Titles and Pitches
 
-> **ℹ️ *Facilitator ****- If the room is 15 or less, skip to “Present to Big Group”*
+# 🗣 Present Titles and Pitches
+
+> **ℹ️ *Facilitator***- If the room is 15 or less, skip to “Present to Big Group”
 
 Now anyone who wishes will have the opportunity to share their title and
 pitch with their small groups.
@@ -966,23 +964,23 @@ receiving feedback if you wish. There will be time for 1 minute of the
 feedback. If the person does want feedback, be sure to say something you
 liked about it before suggesting an improvement.
 
-> **ℹ️ *Facilitator*** *-*
-
-  - *Have each person volunteer themselves by show of hand.*
-
-  - *Ask them if they would like us to record them on their phones so
-    they can watch it later.*
-
-  - *Ask them if they wish for feedback.*
-
-  - *They may watch their time on the large device (such as iPad).*
+> **ℹ️ *Facilitator***
+>
+>  - *Have each person volunteer themselves by show of hand.*
+>
+>  - *Ask them if they would like us to record them on their phones so they can watch it later.*
+>
+>  - *Ask them if they wish for feedback.*
+>
+>  - *They may watch their time on the large device (such as iPad).*
+>
 
 *Each student will get up and talk. Time them and make them stop when
 the time is up. If they wanted feedback, turn to the room and ask:*
 
-  - "What did everyone think was good about this proposal?"
-
-  - "What would make this proposal even better?"
+>  - "What did everyone think was good about this proposal?"
+>
+>  - "What would make this proposal even better?"
 
 >  
 > ***Facilitator** - Proceed to next slide, Creating your talk*
