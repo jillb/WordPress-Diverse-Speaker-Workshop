@@ -428,35 +428,21 @@ do want to speak. Here is another discussion question for you: Why do
 you want to speak?
 
 > ***Facilitator** - Proceed to next slide, Why do you want to speak? \[content\]*
-=======
-**Questions for the group:** What do you think? What are things you're worried about? Why haven’t you talked at a meetup or WordCamp? If you've only talked once, why did you not do it again?
->  
-> ***Facilitator** - Proceed to next slide, Why do you want to speak?*
-
-### Why Do You Want To Speak?
-
-Those are reasons people don’t want to speak. What about reasons people do want to speak. Here is another discussion question for you: Why do you want to speak?
->  
-> ***Facilitator** - Proceed to next slide, Why do you want to speak?*
->>>>>>> d6ecd26dbc2a146f08d6f9fb53c551ca51d54b97
 
 Here are some of the common reasons:
 
-1. Be seen as an authority in your field
-2. Share your knowledge with others
-3. Build your confidence
-4. Give back to the community
-5. Meet people - be part of the community
-6. Travel
-7. Learn at conferences - speaking teaches you more
-8. It’s fun\!
-9. It’s rewarding, you can have a feeling of accomplishment
-10. Career building
-
-**♦️ Diversity item** - 11. Be a role model for folks from
-underrepresented groups
-
-> **\> General** - 11. If you identify as someone from an underrepresented group, know that by being on stage you are a role model for folks like you.
+  - Be seen as an authority in your field
+  - Share your knowledge with others
+  - Build your confidence
+  - Give back to the community
+  - Meet people - be part of the community
+  - Travel
+  - Learn at conferences - speaking teaches you more
+  - It’s fun\!
+  - It’s rewarding, you can have a feeling of accomplishment
+  - Career building
+  - **♦️ Diversity item** - Be a role model for folks from underrepresented groups
+  - If you identify as someone from an underrepresented group, know that by being on stage you are a role model for folks like you.
 
 > ***Facilitator** - Proceed to next slide, Finding a topic*
 
