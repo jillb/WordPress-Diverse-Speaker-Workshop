@@ -2,10 +2,12 @@
 
 This document contains the speaker slide notes for the Wordpress Diversity Speaker Training Workshop. Find out about [upcoming workshops](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) in the WordPress Handbook.
 
-<table class="bg-yellow-light" style="background-color: #ffb900">
+<table>
   <tr>
     <td><span style="font-size: 3em">👀</span></td>
-    <td style="background-color: #ffb900">We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on [Slack](https://make.wordpress.org/chat/).</td>
+    <td>
+      We are keeping track of how many WP groups run the workshops this year. If you’re planning on running it, please either <a href="https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/">let us know here</a> or message @jillbinder on <a href="https://make.wordpress.org/chat/">Slack</a>.
+    </td>
   </tr>
 </table>
 
