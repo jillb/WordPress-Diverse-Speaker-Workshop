@@ -1,6 +1,8 @@
 # Speaker Training Workshop
 
-This document contains the speaker slide notes for the Wordpress Diversity Speaker Training Workshop. Find out about [upcoming workshops](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) in the WordPress Handbook.
+A workshop for WordPress meetups and WordCamps to increase how many people from underrepresented groups apply to give a talk. The workshop can be run for the diverse community members only or if you prefer, for the whole community.
+
+This document contains the script for the Diverse Speaker Workshop (#wpdiversity). Read more and request a training to learn to facilitate it for your WordPress meetup or WordCamp in the WordPress Handbook: [tiny.cc/wpdiversity](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/)
 
 <table>
   <tr>
@@ -49,7 +51,7 @@ a chance to practice speaking.
 for non-binary genders\], \[etc.\].  
 - Please do not wear scents. Many people are allergic or sensitive.
 
-# Information for Faciliators
+# Information for Facilitators
 
 ## Workshop Assets for Facilitators
 
@@ -59,7 +61,7 @@ for non-binary genders\], \[etc.\].
 
 ## Facilitators will need:
 
-- A large device that can show a countdown timer for the timed speaking presentations, such as an iPad. If you have a projector, you could use project [https://e.ggtimer.com/](https://e.ggtimer.com/) instead.  
+- A large device that can show a countdown timer for the timed speaking presentations, such as an iPad. If you have a projector, you could project [https://e.ggtimer.com/](https://e.ggtimer.com/) instead.  
 - Sign up sheet, clipboard, pen
 
 ## Teacher Notes
@@ -181,7 +183,8 @@ The agenda that we are going to cover today is:
 
 ## In this section
 
-  - ♦️ **Diversity** - **Why are we holding a workshop for folks from underrepresented groups**
+  - **Introductions**
+  - ♦️ **If doing for Diversity:** - **Why are we holding a workshop for folks from underrepresented groups**
   - **What we are looking for**
   - **Dispelling the myths of being a public speaker**
   - **Why do you want to speak?**
@@ -207,7 +210,7 @@ have a minute to say:
 Know that you can always opt out of this or any of the other exercises
 in our workshop. At your turn, say, “Pass.”
 
-***♦️ Diversity Section Begins***
+***♦️ If doing for Diversity: Diversity Section Begins***
 
 > ***Facilitator** - Proceed to next slide, Why we are holding a workshop for*
 
@@ -299,7 +302,7 @@ the knowledge or skills to be here, but you have managed to fool
 everyone and soon they’ll find out. Imposter syndrome is really common –
 you aren’t alone.
 
-**♦️ Diversity item** - A lot of us have imposter syndrome because we
+**♦️ If doing for Diversity** - A lot of us have imposter syndrome because we
 don't see people like us presented as experts. Many people who are not
 part of the over-represented majority set a much higher bar for “expert”
 knowledge.
@@ -513,8 +516,6 @@ really engaging.
 > ***Facilitator** - Proceed to next slide, Brainstorm \[content\]*
 
 ## Brainstorm
-
-> **ℹ️ *Facilitator*** *- If you printed the handbooks:*
 
 We are going into our first written exercise now. First we are going to
 help you answer the question, "I don't know what to talk about," "I
