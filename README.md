@@ -150,8 +150,6 @@ for non-binary genders\], \[etc.\].
 > 
 > ***Facilitator** - If it’s a small group (15 or less), arrange seats in a circle. Otherwise, set up small groups of 4-5 each. In both scenarios, we will be splitting into small groups of 4-5 each starting in the Pick A Topic section.*
 > 
-> You can use the toilet at any time, and get up and move around whenever you want to.
-> 
 > ***Facilitator** - Proceed to next slide, Introductions… us*
 >
 
