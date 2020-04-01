@@ -1,6 +1,6 @@
 # Speaker Training Workshop
 
-A workshop for WordPress meetups and WordCamps to increase how many people from underrepresented groups apply to give a talk. The workshop can be run for the diverse community members only or if you prefer, for the whole community.
+A workshop for WordPress meetups and WordCamps to increase how many people from underrepresented groups apply to give a talk. The workshop can be run for the marginalized and underrepresented community members only or if you prefer, for the whole community.
 
 This document contains the script for the Diverse Speaker Workshop (#wpdiversity). Read more and request a training to learn to facilitate it for your WordPress meetup or WordCamp in the WordPress Handbook: [tiny.cc/wpdiversity](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/)
 
@@ -48,7 +48,7 @@ a chance to practice speaking.
 **Accessibility**
 
 - The venue has \[elevators, ramps, etc.\], \[single stall washrooms
-for non-binary genders\], \[etc.\].  
+for all genders\], \[etc.\].  
 - Please do not wear scents. Many people are allergic or sensitive.
 
 # Information for Facilitators
@@ -108,7 +108,7 @@ for non-binary genders\], \[etc.\].
     event description is written in such a way to still attract folks
     in marginalized and underrepresented groups. The workshop script
     gives you some additional items to add if you’re running it for
-    Diversity (♦️).
+    a closed group of marginalized/underrepresented people only (♦️ Diversity).
 
   - The note at the start about getting up and moving around whenever
     they want to is for accessibility for those who get antsy in their
@@ -122,11 +122,12 @@ for non-binary genders\], \[etc.\].
 
   - If you’re doing this for diversity purposes (♦️), if at all possible
     have it be organized and led by a representative of the folks whom
-    it is for.
+    it is for. For example, if you are running a workshop for women of
+    color, have a woman of color lead the workshop.
 
   - Watch language, such as gender pronouns and transgender
     terminology. For example, try not to use “ladies and gentlemen”,
-    “guys”, etc. Use “folks” or “folx”, “friends”, “group”, etc.
+    “guys”, etc. Use “folks”, “friends”, “group”, etc.
 
   - The groups we are targeting are referred to as “they.” Please
     change your pronouns according to if you’re a member of the group
@@ -146,7 +147,7 @@ for non-binary genders\], \[etc.\].
 >
 > ***Facilitator** - Times in Suggested Schedule are approximate and we’ve left a lot of buffer time at the end in case of items going overtime.*
 > 
-> ***Facilitator** - Please count the number of diverse participants that you have and report back to the Diverse Speaker Training group what your number is, along with the picture that you take at the end of the session.*
+> ***Facilitator** - Please count the number of participants of marginalized/underrepresented groups that you have and report back to the Diverse Speaker Training group what your number is, along with the picture that you take at the end of the session.*
 > 
 > ***Facilitator** - If it’s a small group (15 or less), arrange seats in a circle. Otherwise, set up small groups of 4-5 each. In both scenarios, we will be splitting into small groups of 4-5 each starting in the Pick A Topic section.*
 > 
@@ -422,8 +423,8 @@ Some events offer the opportunity for lightning talks, which are usually about
 > ***Facilitator** - Proceed to next slide, Discussion*  
 
 **Questions for the group:** What do you think? What are things you're
-worried about? Why haven’t you talked at a meetup or WordCamp? If
-you've only talked once, why did you not do it again?
+worried about? Why haven’t you spoken at a meetup or WordCamp? If
+you've only spoken once, why did you not do it again?
 
 > ***Facilitator** - Proceed to next slide, Why do you want to speak? \[title page\]*
 
@@ -1195,9 +1196,9 @@ The most important thing you can do to become a better speaker is to
 practise\! The more you speak - in front of a mirror, in front of
 friends, or in front of a room full of people - the more comfortable and
 the better you will become. You can even give your talk to a friend over
-the Internet via Skype, Zoom, or other teleconference softwares.
+the Internet via Skype, Zoom, or other teleconference software.
 
-You can also video record yourself. Take notes on behaviors you exhibit
+You can also video record yourself. Take notes on distracting behaviors you exhibit
 while speaking, then practice reducing them.
 
 When you practice, time yourself. You might be surprised by how long or
@@ -1312,9 +1313,9 @@ Here are some things you can do to help soothe your nerves:
   - **Exercise.** The best way to get rid of nervous energy is to burn
     it off. Physiologically, the reason you get nervous is so that you
     will have the energy and adrenaline to fight or flee from your
-    predator. Running or getting some other form of exercise is a
-    great way to burn off that nervous energy and convince your body
-    that the danger is over.
+    predator. If you are able to, running or getting some other form of
+    exercise is a great way to burn off that nervous energy and convince
+    your body that the danger is over.
 
   - **Breathe.** When we get nervous, we tend to take shallow breaths
     into our chest. This is a part of the body's preparation for fight
@@ -1574,7 +1575,7 @@ Let's look at some tips for creating good slide decks.
 > ***Facilitator** - Proceed to next slide, Have a theme*
 
 Give your slides a theme. It could be that you illustrate all your
-points with lolcats, or that they all use the same background and
+points with cat memes, or that they all use the same background and
 typography. Whatever it is, having a visually unified deck makes all the
 difference.
 
